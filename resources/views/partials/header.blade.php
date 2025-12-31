@@ -19,7 +19,7 @@
 							<div class="header-top-left-icon">
 								<span>
 									<i class="fa fa-map-marker-alt"></i>
-									Jr. Jaén 612, San Ignacio - Cajamarca
+									 San Ignacio-Cajamarca
 								</span>
 							</div>
 						</a>
@@ -29,7 +29,7 @@
 							<div class="header-top-left-icon">
 								<span>
 									<i class="fas fa-phone"></i>
-									+51 951 741 427 / +51 919 614 613
+									+51951741427/+51919614613
 								</span>
 							</div>
 						</a>

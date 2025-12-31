@@ -22,7 +22,7 @@
 						<h1>Creando Mejores </h1>
 						<h2>Soluciones Tecnológicas</h2>
 						<div class="hero-content-txt">
-							<p>Jotitasoft es una empresa especializada en desarrollo de software a medida, aplicaciones web, SaaS, sistemas empresariales y soluciones tecnológicas integrales. Transformamos ideas en soluciones digitales innovadoras.</p>
+							<p><strong>JOTITASOFT S.A.C.</strong> es una empresa de tecnología integral especializada en desarrollo de software a medida, aplicaciones web, SaaS, sistemas ERP/CRM, inteligencia artificial, cloud computing, ciberseguridad y soluciones tecnológicas empresariales. Transformamos ideas en soluciones digitales innovadoras para impulsar tu negocio.</p>
 						</div>
 						<div class="btn-common btn-hero">
 							<a href="#services">Ver Todos los Servicios</a>
@@ -60,43 +60,43 @@
 					<div class="single-feature style-twoo">
 						<div class="feature-icon"><i class="fas fa-code-branch"></i></div>
 						<div class="feature-title">
-							<h4>Control de Acceso</h4>
+							<h4>Desarrollo de Software</h4>
 						</div>
 						<div class="feature-content-txt">
-							<p>Sistemas seguros con control de acceso avanzado para proteger tu información.</p>
+							<p>Desarrollo de software a medida, aplicaciones web, móviles, ERP, CRM y sistemas empresariales personalizados.</p>
 						</div>
 					</div>
 				</div>
 				<div class="col-sm-12 col-md-6 col-lg-3">
 					<div class="single-feature style-twoo">
-						<div class="feature-icon"><i class="fas fa-users"></i></div>
+						<div class="feature-icon"><i class="fas fa-cloud"></i></div>
 						<div class="feature-title">
-							<h4>Gestión de Equipos</h4>
+							<h4>Soluciones SaaS</h4>
 						</div>
 						<div class="feature-content-txt">
-							<p>Herramientas colaborativas para gestionar eficientemente tu equipo de trabajo.</p>
+							<p>Plataformas SaaS escalables, cloud computing, hosting y servicios en la nube para tu negocio.</p>
 						</div>
 					</div>
 				</div>
 				<div class="col-sm-12 col-md-6 col-lg-3">
 					<div class="single-feature style-three">
-						<div class="feature-icon"><i class="fas fa-code"></i></div>
+						<div class="feature-icon"><i class="fas fa-shield-alt"></i></div>
 						<div class="feature-title">
-							<h4>Seguridad de Código</h4>
+							<h4>Ciberseguridad</h4>
 						</div>
 						<div class="feature-content-txt">
-							<p>Desarrollo seguro con las mejores prácticas de seguridad en el código.</p>
+							<p>Protección de datos, auditorías IT, pentesting y soluciones de seguridad empresarial.</p>
 						</div>
 					</div>
 				</div>
 				<div class="col-sm-12 col-md-6 col-lg-3">
 					<div class="single-feature style-four">
-						<div class="feature-icon"><i class="fas fa-tasks"></i></div>
+						<div class="feature-icon"><i class="fas fa-brain"></i></div>
 						<div class="feature-title">
-							<h4>Configuración Cero</h4>
+							<h4>Inteligencia Artificial</h4>
 						</div>
 						<div class="feature-content-txt">
-							<p>Soluciones listas para usar sin necesidad de configuración compleja.</p>
+							<p>IA, Machine Learning, chatbots, automatización inteligente y análisis predictivo.</p>
 						</div>
 					</div>
 				</div>
@@ -266,23 +266,23 @@
 							<div class="services-single-feature">
 								<div class="feature-icon"><i class="fas fa-pencil-alt"></i></div>
 								<div class="service-title">
-									<h5>UX/UI Design</h5>
+									<h5>Diseño UX/UI</h5>
 								</div>
 							</div>
 						</div>
 						<div class="col-sm-12 col-md-6 col-lg-6">
 							<div class="services-single-feature">
-								<div class="feature-icon"><i class="fas fa-american-sign-language-interpreting"></i></div>
+								<div class="feature-icon"><i class="fas fa-project-diagram"></i></div>
 								<div class="service-title">
-									<h5>Solution Project</h5>
+									<h5>Gestión de Proyectos</h5>
 								</div>
 							</div>
 						</div>
 						<div class="col-sm-12 col-md-6 col-lg-6">
 							<div class="services-single-feature">
-								<div class="feature-icon"><i class="fas fa-check"></i></div>
+								<div class="feature-icon"><i class="fas fa-mobile-alt"></i></div>
 								<div class="service-title">
-									<h5>Print ready design</h5>
+									<h5>Aplicaciones Móviles</h5>
 								</div>
 							</div>
 						</div>
@@ -298,11 +298,11 @@
 			<div class="row">
 				<div class="col-lg-12">
 					<div class="section-head style-2 pb-40">
-						<h5>Features</h5>
-						<h2>Our Best Features</h2>
+						<h5>Características</h5>
+						<h2>Nuestras Mejores Características</h2>
 						<div class="animated-bar"> <span></span></div>
 						<div class="section-head-txt mt-20">
-							<p>Phasellus vitae velit sit amet diam semper commodo quis quis libero. Morbi consequat arcu augue, molestie faucibus.</p>
+							<p>Ofrecemos soluciones tecnológicas integrales con las mejores características para impulsar tu negocio digital.</p>
 						</div>
 					</div>
 				</div>
@@ -312,9 +312,9 @@
 					<div class="services-single-feature">
 						<div class="service-icon"><i class="icon-settings"></i></div>
 						<div class="service-title">
-							<h5>Incredible Infrastructure</h5>
+							<h5>Infraestructura Cloud</h5>
 							<div class="service-content-txt">
-								<p>Donec vulputate urna sed rutrum and venenatis. Cras consequat magna as arcu elementum quis congue.</p>
+								<p>Infraestructura cloud escalable con servidores virtuales, almacenamiento y bases de datos gestionadas para tu empresa.</p>
 							</div>
 						</div>
 					</div>
@@ -323,9 +323,9 @@
 					<div class="services-single-feature">
 						<div class="service-icon"><i class="icon-envelope-open"></i></div>
 						<div class="service-title">
-							<h5>Email Notifications </h5>
+							<h5>Notificaciones Inteligentes</h5>
 							<div class="service-content-txt">
-								<p>Donec vulputate urna sed rutrum and venenatis. Cras consequat magna as arcu elementum quis congue.</p>
+								<p>Sistemas de notificaciones por email, SMS y push para mantener a tu equipo siempre informado.</p>
 							</div>
 						</div>
 					</div>
@@ -334,9 +334,9 @@
 					<div class="services-single-feature">
 						<div class="service-icon"><i class="fas fa-chart-line"></i></div>
 						<div class="service-title">
-							<h5>Best Analytics Audits </h5>
+							<h5>Analytics y Big Data</h5>
 							<div class="service-content-txt">
-								<p>Donec vulputate urna sed rutrum and venenatis. Cras consequat magna as arcu elementum quis congue.</p>
+								<p>Análisis de datos, business intelligence y analytics predictivo para tomar mejores decisiones.</p>
 							</div>
 						</div>
 					</div>
@@ -345,31 +345,31 @@
 					<div class="services-single-feature">
 						<div class="service-icon"><i class="fas fa-th"></i></div>
 						<div class="service-title">
-							<h5>Simple Dashboard </h5>
+							<h5>Dashboard Personalizado</h5>
 							<div class="service-content-txt">
-								<p>Donec vulputate urna sed rutrum and venenatis. Cras consequat magna as arcu elementum quis congue.</p>
+								<p>Dashboards intuitivos y personalizables para visualizar métricas clave de tu negocio en tiempo real.</p>
 							</div>
 						</div>
 					</div>
 				</div>
 				<div class="col-sm-12 col-md-6 col-lg-4">
 					<div class="services-single-feature">
-						<div class="service-icon"><i class="fas fa-at"></i></div>
+						<div class="service-icon"><i class="fas fa-database"></i></div>
 						<div class="service-title">
-							<h5>Information Retrieval</h5>
+							<h5>Gestión de Información</h5>
 							<div class="service-content-txt">
-								<p>Donec vulputate urna sed rutrum and venenatis. Cras consequat magna as arcu elementum quis congue.</p>
+								<p>Gestión documental, archivos electrónicos y sistemas de recuperación de información empresarial.</p>
 							</div>
 						</div>
 					</div>
 				</div>
 				<div class="col-sm-12 col-md-6 col-lg-4">
 					<div class="services-single-feature">
-						<div class="service-icon"><i class="fas fa-bell-slash"></i></div>
+						<div class="service-icon"><i class="fas fa-bell"></i></div>
 						<div class="service-title">
-							<h5>Deadline Reminders</h5>
+							<h5>Recordatorios Automáticos</h5>
 							<div class="service-content-txt">
-								<p>Donec vulputate urna sed rutrum and venenatis. Cras consequat magna as arcu elementum quis congue.</p>
+								<p>Sistemas de recordatorios automáticos para tareas, fechas importantes y seguimiento de proyectos.</p>
 							</div>
 						</div>
 					</div>
@@ -395,7 +395,7 @@
 							</div>
 						</div>
 						<div class="counter-title">
-							<h4>Happy Clients</h4>
+							<h4>Clientes Satisfechos</h4>
 						</div>
 					</div>
 				</div>
@@ -404,15 +404,15 @@
 						<div class="counter-content">
 							<div class="counter-content-inner">
 								<div class="count-up-txt">
-									<h1><span class="counter">1.5</span></h1>
+									<h1><span class="counter">50</span></h1>
 								</div>
 								<div class="counter-txt">
-									<h3>K</h3>
+									<h3>+</h3>
 								</div>
 							</div>
 						</div>
 						<div class="counter-title">
-							<h4>Account Number </h4>
+							<h4>Proyectos Completados</h4>
 						</div>
 					</div>
 				</div>
@@ -421,15 +421,15 @@
 						<div class="counter-content">
 							<div class="counter-content-inner">
 								<div class="count-up-txt">
-									<h1><span class="counter">10</span></h1>
+									<h1><span class="counter">24</span></h1>
 								</div>
 								<div class="counter-txt">
-									<h3>K</h3>
+									<h3>/7</h3>
 								</div>
 							</div>
 						</div>
 						<div class="counter-title">
-							<h4>Finished Project</h4>
+							<h4>Soporte Técnico</h4>
 						</div>
 					</div>
 				</div>
@@ -441,12 +441,12 @@
 									<h1><span class="counter">100</span></h1>
 								</div>
 								<div class="counter-txt">
-									<h3>+</h3>
+									<h3>%</h3>
 								</div>
 							</div>
 						</div>
 						<div class="counter-title">
-							<h4>Win Awards</h4>
+							<h4>Satisfacción Garantizada</h4>
 						</div>
 					</div>
 				</div>
@@ -473,13 +473,13 @@
 				<div class="col-sm-12 col-md-6 col-lg-3">
 					<div class="team-single-member">
 						<div class="member-thumb">
-							<img src="{{ asset('cyber-it/assets/images/team/tm-4.jpg') }}" alt="thumb">
+							<img src="{{ asset('cyber-it/assets/images/team/tm-5.jpg') }}" alt="thumb">
 							<div class="about-team-member">
 								<div class="member-name">
-									<h4>Jhanmichael Garcia</h4>
+									<h4>Jhanmichael Garcia Campoverde</h4>
 								</div>
 								<div class="designation">
-									<p>Socio Fundador</p>
+									<p>CEO</p>
 								</div>
 							</div>
 							<div class="member-social-link">
@@ -489,7 +489,7 @@
 								</ul>
 							</div>
 							<div class="member-about-txt">
-								<p>Especialista en desarrollo de software y tecnologías de la información. DNI: 75618866</p>
+								<p>Especialista en desarrollo de software, tecnologías de la información y soluciones empresariales. </p>
 							</div>
 						</div>
 					</div>
@@ -500,10 +500,10 @@
 							<img src="{{ asset('cyber-it/assets/images/team/tm-5.jpg') }}" alt="thumb">
 							<div class="about-team-member">
 								<div class="member-name">
-									<h4>Jonatan Mayanga</h4>
+									<h4>Jonatan Arturo Mayanga Muñoz</h4>
 								</div>
 								<div class="designation">
-									<p>Socio Fundador</p>
+									<p>CIO</p>
 								</div>
 							</div>
 							<div class="member-social-link">
@@ -513,7 +513,7 @@
 								</ul>
 							</div>
 							<div class="member-about-txt">
-								<p>Experto en desarrollo web, SaaS y soluciones tecnológicas empresariales. DNI: 74864514</p>
+								<p>Experto en desarrollo web, SaaS, cloud computing y soluciones tecnológicas empresariales. </p>
 							</div>
 						</div>
 					</div>
@@ -576,9 +576,9 @@
 			<div class="row">
 				<div class="col-lg-12">
 					<div class="section-head style-2 pb-35">
-						<h5>Project Gallery</h5>
-						<h2>We’ve done lot’s of work, let’s </h2>
-						<h2>check some from here</h2>
+						<h5>Galería de Proyectos</h5>
+						<h2>Hemos Realizado Muchos Proyectos</h2>
+						<h2>Descubre Algunos de Nuestros Trabajos</h2>
 						<div class="animated-bar"> <span></span></div>
 					</div>
 				</div>
@@ -588,11 +588,11 @@
 					<div class="portfolio_nav">
 						<div class="portfolio_menu">
 							<ul class="menu-filtering">
-								<li class="current_menu_item" data-filter="*">All </li>
+								<li class="current_menu_item" data-filter="*">Todos</li>
 								<li data-filter=".brand" >Branding</li>
-								<li data-filter=".prototype" >Prototype</li>
-								<li data-filter=".ux" > UX Research</li>
-								<li data-filter=".web-design">Web Design </li>
+								<li data-filter=".prototype" >Prototipos</li>
+								<li data-filter=".ux" >Investigación UX</li>
+								<li data-filter=".web-design">Diseño Web</li>
 							</ul>
 						</div>
 					</div>
@@ -705,15 +705,15 @@
 							</div>
 						</div>
 						<div class="section-title">
-							<h2>We provide outsourced IT services for
-								<span class="sub-title">small &mid-sized business</span>
+							<h2>Proporcionamos servicios IT externalizados para
+								<span class="sub-title">pequeñas y medianas empresas</span>
 							</h2>
 						</div>
 						<div class="section-txt">
-							<p>Appropriate for your specific business, making it easy for you to have quality IT services. What We.</p>
+							<p>Soluciones tecnológicas adaptadas a tu negocio específico, facilitando servicios IT de calidad. Desarrollo de software, SaaS, cloud computing y más.</p>
 						</div>
 						<div class="btn-call-do">
-							<a href="index-seven.html#">Call: +880 542 124 587</a>
+							<a href="tel:+51951741427">Llámanos: +51 951 741 427</a>
 						</div>
 					</div>
 				</div>
@@ -825,11 +825,11 @@
 			<div class="row">
 				<div class="col-lg-12">
 					<div class="section-head style-2 pb-70">
-						<h5>Testimonial</h5>
-						<h2>What Say Our Client's</h2>
+						<h5>Testimonios</h5>
+						<h2>Lo Que Dicen Nuestros Clientes</h2>
 						<div class="animated-bar"><span></span></div>
 						<div class="section-head-txt mt-30">
-							<p>Phasellus vitae velit sit amet diam semper commodo quis quis libero. Morbi consequat arcu augue, molestie faucibus.</p>
+							<p>La satisfacción de nuestros clientes es nuestra prioridad. Conoce las experiencias de quienes confían en Jotitasoft.</p>
 						</div>
 					</div>
 				</div>
@@ -899,10 +899,10 @@
 			<div class="row">
 				<div class="col-lg-12">
 					<div class="section-head style-2 pb-30">
-						<h5>Articles</h5>
-						<h2>Latest Blog Posts </h2>
+						<h5>Artículos</h5>
+						<h2>Últimas Publicaciones del Blog</h2>
 						<div class="animated-bar"><span></span></div>
-						<p class="pt-25">Phasellus vitae velit sit amet diam semper commodo quis quis libero. Morbi consequat arcu augue, molestie faucibus.</p>
+						<p class="pt-25">Mantente actualizado con las últimas tendencias en tecnología, desarrollo de software, SaaS y soluciones empresariales.</p>
 					</div>
 				</div>
 			</div>
@@ -914,7 +914,7 @@
 						</div>
 						<div class="blog-content">
 							<div class="blog-meta">
-								<a href="index-seven.html#">Cyber</a>
+								<a href="index-seven.html#">Jotitasoft</a>
 								<span>February 01, 2025</span>
 							</div>
 							<div class="blog-page-title">
@@ -932,7 +932,7 @@
 						</div>
 						<div class="blog-content">
 							<div class="blog-meta">
-								<a href="index-seven.html#">Cyber</a>
+								<a href="index-seven.html#">Jotitasoft</a>
 								<span>February 01, 2025</span>
 							</div>
 							<div class="blog-page-title">
@@ -950,7 +950,7 @@
 						</div>
 						<div class="blog-content">
 							<div class="blog-meta">
-								<a href="index-seven.html#">Cyber</a>
+								<a href="index-seven.html#">Jotitasoft</a>
 								<span>February 01, 2025</span>
 							</div>
 							<div class="blog-page-title">
@@ -968,7 +968,7 @@
 						</div>
 						<div class="blog-content">
 							<div class="blog-meta">
-								<a href="index-seven.html#">Cyber</a>
+								<a href="index-seven.html#">Jotitasoft</a>
 								<span>February 01, 2025</span>
 							</div>
 							<div class="blog-page-title">
@@ -986,7 +986,7 @@
 						</div>
 						<div class="blog-content">
 							<div class="blog-meta">
-								<a href="index-seven.html#">Cyber</a>
+								<a href="index-seven.html#">Jotitasoft</a>
 								<span>February 01, 2025</span>
 							</div>
 							<div class="blog-page-title">
@@ -1004,7 +1004,7 @@
 						</div>
 						<div class="blog-content">
 							<div class="blog-meta">
-								<a href="index-seven.html#">Cyber</a>
+								<a href="index-seven.html#">Jotitasoft</a>
 								<span>February 01, 2025</span>
 							</div>
 							<div class="blog-page-title">
@@ -1022,7 +1022,7 @@
 						</div>
 						<div class="blog-content">
 							<div class="blog-meta">
-								<a href="index-seven.html#">Cyber</a>
+								<a href="index-seven.html#">Jotitasoft</a>
 								<span>February 01, 2025</span>
 							</div>
 							<div class="blog-page-title">
