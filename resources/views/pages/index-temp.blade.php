@@ -1,0 +1,1571 @@
+﻿<!DOCTYPE HTML>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="x-ua-compatible" content="ie=edge">
+	<title>Cyber-IT - IT Solutions Services HTML5 Template</title>
+	<meta name="description" content="">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<!-- Favicon -->
+	<link rel="icon" type="image/png" sizes="56x56" href="{{ asset('cyber-it/assets/images/fav-icon/icon.png">
+	<!-- bootstrap CSS -->
+	<link rel="stylesheet" href="{{ asset('cyber-it/assets/css/bootstrap.min.css" type="text/css" media="all" />
+	<!-- Jquery UI Tab css -->
+	<link rel="stylesheet" href="{{ asset('cyber-it/assets/css/jquery-ui.min.css" type="text/css" media="all" >
+	<!-- Uikit  CSS -->
+	<link rel="stylesheet" href="{{ asset('cyber-it/assets/css/uikit.min.css" type="text/css" media="all" />
+	<!-- Mobile-Menu -->
+	<link rel="stylesheet" href="{{ asset('cyber-it/assets/css/mobile-menu.css" type="text/css" media="all" />
+	<!-- carousel CSS -->
+	<link rel="stylesheet" href="{{ asset('cyber-it/assets/css/owl.carousel.min.css" type="text/css" media="all" />
+	<!-- nivo-slider CSS -->
+	<link rel="stylesheet" href="{{ asset('cyber-it/assets/css/nivo-slider.css" type="text/css" media="all" />
+	<!-- animate CSS -->
+	<link rel="stylesheet" href="{{ asset('cyber-it/assets/css/animate.css" type="text/css" media="all" />
+	<!-- Mobile-Menu -->
+	<link rel="stylesheet" href="{{ asset('cyber-it/assets/css/mobile-menu.css" type="text/css" media="all" />
+	<!-- animated-text CSS -->
+	<link rel="stylesheet" href="{{ asset('cyber-it/assets/css/animated-text.css" type="text/css" media="all" />
+	<!-- font-awesome CSS -->
+	<link rel="stylesheet" href="{{ asset('cyber-it/assets/css/all.min.css" type="text/css" media="all" />
+	<!-- font-flaticon CSS -->
+	<link rel="stylesheet" href="{{ asset('cyber-it/assets/css/flaticon.css" type="text/css" media="all" />
+	<!-- theme-default CSS -->
+	<link rel="stylesheet" href="{{ asset('cyber-it/assets/css/theme-default.css" type="text/css" media="all" />
+	<!-- meanmenu CSS -->
+	<link rel="stylesheet" href="{{ asset('cyber-it/assets/css/meanmenu.min.css" type="text/css" media="all" />
+	<!-- Main Style CSS -->
+	<link rel="stylesheet"  href="style.css" type="text/css" media="all" />
+	<!-- transitions CSS -->
+	<link rel="stylesheet" href="{{ asset('cyber-it/assets/css/owl.transitions.css" type="text/css" media="all" />
+	<!-- venobox CSS -->
+	<link rel="stylesheet" href="venobox/venobox.css" type="text/css" media="all" />
+	<!-- widget CSS -->
+	<link rel="stylesheet" href="{{ asset('cyber-it/assets/css/widget.css" type="text/css" media="all" />
+	<!-- Swiper Slider -->
+	<link rel="stylesheet" href="{{ asset('cyber-it/assets/css/swiper.min.css" type="text/css" media="all">
+	<!--Animated Headline-->
+	<link rel="stylesheet" href="{{ asset('cyber-it/assets/css/jquery.animatedheadline.css" type="text/css" media="all">
+	<!-- responsive CSS -->
+	<link rel="stylesheet" href="{{ asset('cyber-it/assets/css/responsive.css" type="text/css" media="all" />
+	<!--Simple Line Icon-->
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/simple-line-icons/2.5.5/css/simple-line-icons.min.css">
+
+	<!-- modernizr js -->
+	<script type="text/javascript" src="{{ asset('cyber-it/assets/js/vendor/modernizr-3.5.0.min.js"></script>
+
+</head>
+<body>
+
+	<!-- Loder Start -->
+	<div class="loader-wrapper">
+	  <div class="loader"></div>
+	  <div class="loder-section left-section"></div>
+	  <div class="loder-section right-section"></div>
+	</div>
+	<!-- Loder End -->
+
+	<!-----START HEADER TOP SECTION----->
+	<div class="header-top-area d-sm-none d-md-none d-lg-block">
+		<div class="container">
+			<div class="row align-items-center">
+				<div class="col-md-8">
+					<div class="header-top-left-items">
+						<div class="header-top-left-single-item">
+							<a href="index.html#">
+								<div class="header-top-left-icon">
+									<span>
+										<i class="far fa-envelope"></i>
+										Example@gmail.com
+									</span>
+								</div>
+							</a>
+						</div>
+						<div class="header-top-left-single-item">
+							<a href="index.html#">
+								<div class="header-top-left-icon">
+									<span>
+										<i class="fa fa-map-marker-alt"></i>
+										34/11 Link Road, Dhaka
+									</span>
+								</div>
+							</a>
+						</div>
+						<div class="header-top-left-single-item">
+							<a href="index.html#">
+								<div class="header-top-left-icon">
+									<span>
+										<i class="fas fa-phone"></i>
+										+1 (888) 456 7890
+									</span>
+								</div>
+							</a>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-4">
+					<div class="header-top-right-items text-right">
+						<div class="header-top-right-icon-area">
+							<ul>
+								<li>
+									<a href="index.html#">
+										<i class="fab fa-facebook-f"></i>
+									</a>
+								</li>
+								<li>
+									<a href="index.html#">
+										<i class="fa-brands fa-x-twitter"></i>
+									</a>
+								</li>
+								<li>
+									<a href="index.html#">
+										<i class="fab fa-linkedin-in"></i>
+									</a>
+								</li>
+							</ul>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-----START NAV SECTION----->
+	<header id="sticky-header" >
+		<div class="container"> 
+			<div class="menu-wrapper align-items-center">
+				<div class="mobile-logo">
+					<a href="index.html"><span class="logo-txt"></span></a>
+				</div>
+				<div class="logo"> 
+					<a href="index.html">
+						<img src="{{ asset('cyber-it/assets/images/logo-1.png" alt="logo">
+						<img src="{{ asset('cyber-it/assets/images/logo-2.png" alt="logo">
+					</a>
+				</div>
+				<nav>
+					<ul>
+						<li>
+							<a href="index.html">Home<i class="fas fa-angle-down"></i></a>
+							<ul class="sub-menu">									
+								<li><a href="index.html#">IT Solution Demo <i class="fas fa-angle-right"></i></a>
+									<ul class="inner-sub-menu style1">
+										<li><a href="index.html">IT Solution 01</a></li>
+										<li><a href="it-solution.html">IT Solution 02</a></li>
+										<li><a href="index-two.html">IT Solution 03</a></li>
+										<li><a href="index-three.html">IT Solution 04</a></li>
+										<li><a href="index-2.html">IT Solution 05</a></li>
+										<li><a href="landing-01.html">Landing Page 01</a></li>
+										<li><a href="landing-02.html">Landing Page 02</a></li>
+									</ul>
+								</li>
+								<li>
+									<a href="index.html#">Latest Demo 2025 <i class="fas fa-angle-right"></i></a>
+									<ul class="inner-sub-menu">
+										<li><a href="new-demo-01.html">IT Solution New 01</a></li>
+										<li><a href="new-demo-02.html">IT Solution New 02</a></li>
+										<li><a href="new-demo-03.html">IT Solution New 03</a></li>
+										<li><a href="new-demo-04.html">IT Solution New 04</a></li>
+										<li><a href="new-demo-05.html">IT Solution New 05</a></li>
+										<li><a href="particle-01.html">Home Particle 01</a></li>
+										<li><a href="particle-02.html">Home Particle 02</a></li>
+									</ul>
+								</li>
+								<li>
+									<a href="index.html#">IT Startup Demo<i class="fas fa-angle-right"></i></a>
+									<ul class="inner-sub-menu">
+										<li><a href="index-seven.html">IT Startup 01</a></li>
+										<li><a href="index-eight.html">IT Startup 02</a></li>
+										<li><a href="index-nine.html">IT Startup-Appointment</a></li>
+									</ul>
+								</li>
+								<li>
+									<a href="index.html#">IT Minimal Demo <i class="fas fa-angle-right"></i></a>
+									<ul class="inner-sub-menu">
+										<li><a href="index-four.html">IT Solution Minimal 1</a></li>
+										<li><a href="index-five.html">IT Solution Minimal 2</a></li>
+										<li><a href="index-six.html">IT Solution Minimal 3</a></li>
+									</ul>
+								</li>
+								<li>
+									<a href="index.html#">Multipurpose Demo <i class="fas fa-angle-right"></i></a>
+									<ul class="inner-sub-menu">
+										<li><a href="business-one.html">Business 01 New </a></li>
+										<li><a href="business-two.html">Business 02 New</a></li>
+										<li><a href="index-ten.html">Software Company</a></li>
+										<li><a href="index-eleven.html">IT-Consultancy</a></li>
+										<li><a href="landing-page.html">Landing Page New</a></li>
+									</ul>
+								</li>
+							</ul>
+						</li>
+						<li>
+							<a href="index.html#">Company<i class="fas fa-angle-down"></i><span><i class="fas fa-angle-right"></i></span></a>
+							<ul class="sub-menu">
+								<li><a href="about.html">About</a></li>
+								<li><a href="about-us.html">About Us </a></li>
+								<li><a href="why-choose-us.html">Why Choose Us </a></li>
+								<li><a href="mission&amp;vission.html">Mission & Vission </a></li>
+								<li><a href="our-team.html">Our Team </a></li>
+								<li><a href="single-team.html">Single Team </a></li>
+								<li><a href="case-study.html">Case Study </a></li>
+								<li><a href="single-case-study.html">Single Case Study </a></li>
+								<li><a href="pricing-plan.html">Pricing Plan</a></li>
+								<li><a href="career.html">Career</a></li>
+								<li><a href="career-details.html">Career Details</a></li>
+								<li><a href="typography.html">Typography</a></li>
+								<li><a href="faq.html">FAQ's </a></li>
+							</ul>
+						</li>
+						<li>
+							<a href="index.html#">Services<i class="fas fa-angle-down"></i><span><i class="fas fa-angle-right"></i></span></a>
+							<ul class="sub-menu">
+								<li><a href="service-style-one.html">Service Style One</a></li>
+								<li><a href="service-style-two.html">Service Style Two</a></li>
+								<li><a href="service-style-three.html">Service Style Three</a></li>
+								<li><a href="service-style-four.html">Service Style Four</a></li>
+								<li><a href="service-carousel-style.html">Service Carousel Style</a></li>
+								<li><a href="service-details.html">Service Details</a></li>
+								<li><a href="service-details-two.html">Service Details Two</a></li>
+							</ul>
+						</li>
+						<li>
+							<a href="index.html#">Project<i class="fas fa-angle-down"></i><span><i class="fas fa-angle-right"></i></span></a>
+							<ul class="sub-menu">
+								<li><a href="portfolio-2-column.html">Portfolio-2 Column</a></li>
+								<li><a href="portfolio-3-column.html">Portfolio-3 Column</a></li>
+								<li><a href="portfolio-4-column-wide.html">Portfolio-4 Column Wide</a></li>
+								<li><a href="portfolio-details.html">Portfolio Details</a></li>
+							</ul>
+						</li>
+						<li>
+							<a href="index.html#">Elements<i class="fas fa-angle-down"></i><span><i class="fas fa-angle-right"></i></span></a>
+							<ul class="sub-menu">
+								<li><a href="service-box.html">Service Box</a></li>
+								<li><a href="info-box.html">Info Box</a></li>
+								<li><a href="teams.html">Teams</a></li>
+								<li><a href="testimonial.html">Testimonial</a></li>
+								<li><a href="accordion.html">Accordion</a></li>
+								<li><a href="counter.html">Counter</a></li>
+								<li><a href="image-carousel.html">Image Carousel</a></li>
+								<li><a href="typography.html">Typography</a></li>
+							</ul>
+						</li>
+						<li>
+							<a href="index.html#">Blog<i class="fas fa-angle-down"></i><span><i class="fas fa-angle-right"></i></span></a>
+							<ul class="sub-menu">
+								<li><a href="blog-list.html">Blog List</a></li>
+								<li><a href="blog-grid.html">Blog grid</a></li>								
+								<li><a href="blog-2-column.html">Blog-2 Column</a></li>
+							</ul>
+						</li>
+						<li><a href="contact-us.html">Contact</a></li>
+					</ul>
+					<div class="nav-btn  d-sm-none d-md-none d-lg-inline-block">
+						<a href="index.html#">Get A Quote</a>
+					</div>
+					<div class="mm-social-icon d-lg-none mt-40">
+						<span><a href="index.html#"><i class="fab fa-facebook-f"></i></a></span>
+						<span><a href="index.html#"><i class="fa-brands fa-x-twitter"></i></a></span>
+						<span><a href="index.html#"><i class="fab fa-pinterest"></i></a></span>
+						<span><a href="index.html#"><i class="fab fa-linkedin-in"></i></a></span>
+					</div>
+				</nav>
+			</div>
+		</div>
+	</header>
+	<!-- ============================================================== -->
+	<!-- Start - Mobile-Menu- Section -->
+	<!-- ============================================================= -->
+	<div class="mobile-menu">
+		<div class="conainer">
+			<div class="row">
+			<div class="col-lg-3">
+				<div class="logo-container">
+					<div class="header-logo">
+						<a class="mobile-logo" href="index.html"><img src="{{ asset('cyber-it/assets/images/logo-2.png" alt=""></a>
+					</div>
+					<div class="menu-toggle">
+						<div class="mobile-icon">
+							<i class="fas fa-bars"></i>
+							<i class="fas fa-times"></i>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-lg-9 col-md-12">
+				<div class="header-menu2" >
+					<ul>
+						<li><a class="menu_hide expand" href="index.html#">Home
+							<div class="menu-toggle2">
+								<div class="icon2">
+									<span class="plus">+</span>
+									<span class="minus">-</span>
+								</div>
+							</div> 
+							</a>
+							<ul class="menu_open menu_hide2">
+								<li class="expand"><a href="index.html#">IT Solution Demo
+									<div class="menu-toggle2 style-02 style2">
+										<div class="icon2">
+											<span class="plus">+</span>
+											<span class="minus">-</span>
+										</div>
+									</div>
+									<ul class="menu_open2 sub-menu2">
+										<li><a href="index.html">IT Solution 01</a></li>
+										<li><a href="it-solution.html">IT Solution 02</a></li>
+										<li><a href="index-two.html">IT Solution 03</a></li>
+										<li><a href="index-three.html">IT Solution 04</a></li>
+										<li><a href="index-2.html">IT Solution 05</a></li>
+										<li><a href="landing-01.html">Landing Page 01</a></li>
+										<li><a href="landing-02.html">Landing Page 02</a></li>
+									</ul>
+								</a></li>
+							</ul>
+							<ul class="menu_open menu_hide3">
+								<li class="expand"><a href="index.html#">Latest Demo 2025
+									<div class="menu-toggle2 style-02 style2">
+										<div class="icon2">
+											<span class="plus">+</span>
+											<span class="minus">-</span>
+										</div>
+									</div>
+									<ul class="menu_open3 sub-menu2">
+										<li><a href="new-demo-01.html">IT Solution New 01</a></li>
+										<li><a href="new-demo-02.html">IT Solution New 02</a></li>
+										<li><a href="new-demo-03.html">IT Solution New 03</a></li>
+										<li><a href="new-demo-04.html">IT Solution New 04</a></li>
+										<li><a href="new-demo-05.html">IT Solution New 05</a></li>
+										<li><a href="particle-01.html">Home Particle 01</a></li>
+										<li><a href="particle-02.html">Home Particle 02</a></li>
+									</ul>
+								</a></li>
+							</ul>
+							<ul class="menu_open menu_hide4">
+								<li class="expand"><a href="index.html#">IT Startup Demo
+									<div class="menu-toggle2 style-02 style2">
+										<div class="icon2">
+											<span class="plus">+</span>
+											<span class="minus">-</span>
+										</div>
+									</div>
+									<ul class="menu_open4 sub-menu2">
+										<li><a href="index-seven.html">IT Startup 01</a></li>
+										<li><a href="index-eight.html">IT Startup 02</a></li>
+										<li><a href="index-nine.html">IT Startup-Appointment</a></li>
+									</ul>
+								</a></li>
+							</ul>
+							<ul class="menu_open menu_hide5">
+								<li class="expand"><a href="index.html#">IT Minimal Demo
+									<div class="menu-toggle2 style-02 style2">
+										<div class="icon2">
+											<span class="plus">+</span>
+											<span class="minus">-</span>
+										</div>
+									</div>
+									<ul class="menu_open5 sub-menu2">
+										<li><a href="index-four.html">IT Solution Minimal 1</a></li>
+										<li><a href="index-five.html">IT Solution Minimal 2</a></li>
+										<li><a href="index-six.html">IT Solution Minimal 3</a></li>
+									</ul>
+								</a></li>
+							</ul>
+							<ul class="menu_open menu_hide6">
+								<li class="expand"><a href="index.html#">Multipurpose Demo
+									<div class="menu-toggle2 style-02 style2">
+										<div class="icon2">
+											<span class="plus">+</span>
+											<span class="minus">-</span>
+										</div>
+									</div>
+									<ul class="menu_open6 sub-menu2">
+										<li><a href="business-one.html">Business 01 New </a></li>
+										<li><a href="business-two.html">Business 02 New</a></li>
+										<li><a href="index-ten.html">Software Company</a></li>
+										<li><a href="index-eleven.html">IT-Consultancy</a></li>
+										<li><a href="landing-page.html">Landing Page New</a></li>
+									</ul>
+								</a></li>
+							</ul>
+						</li>
+						<li class="expand"><a class="menu_hide7" href="index.html#">Company
+							<div class="menu-toggle2">
+								<div class="icon2">
+									<span class="plus">+</span>
+									<span class="minus">-</span>
+								</div>
+							</div> 
+							</a>
+							<ul class="menu_open7 sub-menu2">
+								<li><a href="about.html">About</a></li>
+								<li><a href="about-us.html">About Us </a></li>
+								<li><a href="why-choose-us.html">Why Choose Us </a></li>
+								<li><a href="mission&amp;vission.html">Mission & Vission </a></li>
+								<li><a href="our-team.html">Our Team </a></li>
+								<li><a href="single-team.html">Single Team </a></li>
+								<li><a href="case-study.html">Case Study </a></li>
+								<li><a href="single-case-study.html">Single Case Study </a></li>
+								<li><a href="pricing-plan.html">Pricing Plan</a></li>
+								<li><a href="career.html">Career</a></li>
+								<li><a href="career-details.html">Career Details</a></li>
+								<li><a href="typography.html">Typography</a></li>
+								<li><a href="faq.html">FAQ's </a></li>
+							</ul>
+						</li>
+						<li class="expand"><a class="menu_hide8" href="index.html#">Service
+							<div class="menu-toggle2">
+								<div class="icon2">
+									<span class="plus">+</span>
+									<span class="minus">-</span>
+								</div>
+							</div> 
+							</a>
+							<ul class="menu_open8 sub-menu2">
+								<li><a href="service-style-one.html">Service Style One</a></li>
+								<li><a href="service-style-two.html">Service Style Two</a></li>
+								<li><a href="service-style-three.html">Service Style Three</a></li>
+								<li><a href="service-style-four.html">Service Style Four</a></li>
+								<li><a href="service-carousel-style.html">Service Carousel Style</a></li>
+								<li><a href="service-details.html">Service Details</a></li>
+								<li><a href="service-details-two.html">Service Details Two</a></li>
+							</ul>
+						</li>
+						<li class="expand"><a class="menu_hide9" href="index.html#">Project
+							<div class="menu-toggle2">
+								<div class="icon2">
+									<span class="plus">+</span>
+									<span class="minus">-</span>
+								</div>
+							</div> 
+							</a>
+							<ul class="menu_open9 sub-menu2">
+								<li><a href="portfolio-2-column.html">Portfolio-2 Column</a></li>
+								<li><a href="portfolio-3-column.html">Portfolio-3 Column</a></li>
+								<li><a href="portfolio-4-column-wide.html">Portfolio-4 Column Wide</a></li>
+								<li><a href="portfolio-details.html">Portfolio Details</a></li>
+							</ul>
+						</li>
+						<li class="expand"><a class="menu_hide10" href="index.html#">Elements
+							<div class="menu-toggle2">
+								<div class="icon2">
+									<span class="plus">+</span>
+									<span class="minus">-</span>
+								</div>
+							</div> 
+							</a>
+							<ul class="menu_open10 sub-menu2">
+								<li><a href="service-box.html">Service Box</a></li>
+								<li><a href="info-box.html">Info Box</a></li>
+								<li><a href="teams.html">Teams</a></li>
+								<li><a href="testimonial.html">Testimonial</a></li>
+								<li><a href="accordion.html">Accordion</a></li>
+								<li><a href="counter.html">Counter</a></li>
+								<li><a href="image-carousel.html">Image Carousel</a></li>
+								<li><a href="typography.html">Typography</a></li>
+							</ul>
+						</li>
+						<li class="expand"><a class="menu_hide11" href="index.html#">Blog
+							<div class="menu-toggle2">
+								<div class="icon2">
+									<span class="plus">+</span>
+									<span class="minus">-</span>
+								</div>
+							</div> 
+							</a>
+							<ul class="menu_open11 sub-menu2">
+								<li><a href="blog-list.html">Blog List</a></li>
+								<li><a href="blog-grid.html">Blog grid</a></li>								
+								<li><a href="blog-2-column.html">Blog-2 Column</a></li>
+							</ul>
+						</li>
+						<li><a href="contact-us.html">Contact</a></li>	
+					</ul>
+				</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-----START CAROUSEL SLIDER SECTION------->
+	<div class="carousel-slider-section">
+		<div class="carousel-slider owl-carousel">
+			<div class="carousel-slider-one white align-items-center d-flex">
+				<div class="container">
+					<div class="row">
+						<div class="col-lg-12">
+							<div class="slider-content">
+								<div class="wow fadeInDown" data-wow-duration="2s" data-wow-delay="0s">
+									<h4>Best Perform For Business</h4>		
+								</div>
+								<div class="wow fadeInDown" data-wow-duration="2s" data-wow-delay="0s">
+									<h1>Real - Time Monitoring </h1>		
+								</div>
+								<div class="wow fadeInDown" data-wow-duration="2s" data-wow-delay="0.6s">
+									<h2>Your Technology</h2>		
+								</div>		
+								<p>We are equipped with an updated technical knowledge to serve our customers  properly. Our method of application maintains the industry. 
+								</p>
+								<div class="carousel-btn-area d-flex mt-25">
+									<div class="btn-common btn-carousel-slider">
+										<a href="index.html#">How It Work <i class="fa fa-angle-right"></i></a>
+									</div>
+									<div class="video carousel-video">
+										<a class="video-vemo-icon venobox vbox-item" data-vbtype="youtube" data-autoplay="true" href="https://youtu.be/BS4TUd7FJSg"><i class="fas fa-play-circle"></i></a>	
+									</div>
+									<p class=" d-sm-none d-md-none d-lg-none d-xl-block pl-20 mb-0" style="line-height: 45px;">See Our Introduction</p>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="carousel-slider-two white align-items-center d-flex">
+				<div class="container">
+					<div class="row">
+						<div class="col-lg-12">
+							<div class="slider-content">
+								<div class="wow fadeInDown" data-wow-duration="2s" data-wow-delay="0s">
+									<h4>Best Perform For Business</h4>		
+								</div>
+								<div class="wow fadeInDown" data-wow-duration="2s" data-wow-delay="0s">
+									<h1>Real - Time Monitoring </h1>		
+								</div>
+								<div class="wow fadeInDown" data-wow-duration="2s" data-wow-delay="0.6s">
+									<h2>Your Technology</h2>		
+								</div>
+								<p>We are equipped with an updated technical knowledge to serve our customers  properly. Our method of application maintains the industry. 
+								</p>
+								<div class="btn-common btn-carousel-slider">
+									<a href="index.html#">How It Work <i class="fa fa-angle-right"></i></a>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<!-----START FEATURE SECTION----->
+	<div class="feature-section">
+		<div class="container">
+			<div class="feature-content-container">
+				<div class="row feature-translate">
+					<div class="col-sm-12 col-md-6 col-lg-4 pl-0 pr-0">
+						<div class="feature-content d-flex">
+							<div class="feature-icon">
+								<i class="flaticon-developer"></i>
+							</div>
+							<div class="feature-content-txt">
+								<h2>Expert & Professional</h2>
+								<p>We Are Trusted Our Customers</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-sm-12 col-md-6 col-lg-4 pl-0 pr-0">
+						<div class="feature-content style-2 d-flex">
+							<div class="feature-icon">
+								<i class="flaticon-clock"></i>
+							</div>
+							<div class="feature-content-txt">
+								<h2>24/7 Support</h2>
+								<p>000 7845 114- 123 4567 890</p>
+							</div>
+						</div>
+					</div>
+					<div class="col-sm-12 col-md-6 col-lg-4 pl-0 pr-0">
+						<div class="feature-content d-flex">
+							<div class="feature-icon">
+								<i class="flaticon-left-quote"></i>
+							</div>
+							<div class="feature-content-txt">
+								<h2>Trusted Services</h2>
+								<p>We Are Trusted Our Customers</p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<!-----START ABOUT SECTION----->
+	<div class="about-section pt-70 pb-100">
+		<div class="container">
+			<div class="row align-items-center">
+				<div class="col-sm-12 col-md-6 col-lg-6">
+					<div class="about-thumb-section">
+						<div class="about-thumb">
+							<img src="{{ asset('cyber-it/assets/images/about/ab1.png" alt="thumb">
+						</div>
+						<div class="about-circle-bg alltuchtopdown">
+							<img src="{{ asset('cyber-it/assets/images/about/ab-circle.png" alt="circle-thumb">
+						</div>
+					</div>
+				</div>
+				<div class="col-sm-12 col-md-6 col-lg-6">
+					<div class="about-content-container">
+						<div class="section-head pb-60">
+							<h5>30 YEARS OF EXPERIENCE</h5>
+							<h2>Preparing for your success</h2>
+							<h2>provide best  <span> IT solutions.</span> </h2>
+							<div class="animated-bar"><span></span></div>
+						</div>
+						<div class="about-content">
+							<div class="about-content-txt">
+								<p>Donec pulvinar magna id leoersi pellentesque impered dignissim rhoncus euismod euismod eros vitae accumsan lacinia. Fusce auctor consectur dapibus vestibulum ac ex nec turpis moles et sapien lacinia varius odio vel lobortis dui awesome doloren.</p>
+							</div>
+							<div class="row">
+								<div class=" col-sm-12 col-md-12 col-lg-6 pl-0 pr-0">
+									<div class="about-feature d-flex">
+										<div class="about-feature-icon">
+											<i class="flaticon-call"></i>
+										</div>
+										<div class="about-feature-content">
+											<div class="about-feature-content-title">
+												<h4>24/7 Support</h4>
+											</div>
+											<div class="about-feature-content-text">
+												<p>Porem Ipsum is simply and mumme awesome.</p>
+											</div>
+										</div>
+									</div>
+								</div>
+								<div class=" col-sm-12 col-md-12 col-lg-6 pl-0 pr-0">
+									<div class="about-feature d-flex">
+										<div class="about-feature-icon">
+											<i class="flaticon-developer"></i>
+										</div>
+										<div class="about-feature-content">
+											<div class="about-feature-content-title">
+												<h4>Experienced Team</h4>
+											</div>
+											<div class="about-feature-content-text">
+												<p>Porem Ipsum is simply and mumme awesome.</p>
+											</div>
+										</div>
+									</div>
+								</div>
+							</div>
+							<p class="pt-20">Molitia modi quae laboriosam nemo minima molestias vitae rerulla eos explicabo optio accusan nisi repellend atione.</p>
+							<div class="btn-common btn-about">
+								<a href="index.html#">More About <i class="fas fa-angle-right"></i></a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<!-----START CHOOSE-US SECTION----->
+	<div class="choose-us-section pt-85 pb-140">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-12">
+					<div class="section-head style-2 white pb-70">
+						<h5 class="text-white">Why Choose Us</h5>
+						<h2>We deal with the aspects </h2>
+						<h2> of professional IT Solution Services</h2>
+						<div class="animated-bar"> <span></span></div>
+					</div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-sm-12 col-md-6 col-lg-3">
+					<div class="choose-us-single-feature">
+						<div class="choose-us-feature-wrapper white">
+							<div class="choose-us-content">
+								<div class="choose-us-feature-title">
+									<h3>Product Designs</h3>
+								</div>
+								<div class="choose-us-feature-txt">
+									<p>Donec pulvinar magna was leoersi pellentesque impered dignissim creative.</p>
+								</div>
+								<div class="choose-us-icon"><i class="flaticon-process"></i></div>
+								<div class="choose-us-btn"><a href="index.html#">Read More <i class="fa fa-angle-right"></i></a></div>
+								<div class="choose-us-number">
+									<h2>01</h2>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-sm-12 col-md-6 col-lg-3">
+					<div class="choose-us-single-feature">
+						<div class="choose-us-feature-wrapper white">
+							<div class="choose-us-content">
+								<div class="choose-us-feature-title">
+									<h3>Big Data & Analytics</h3>
+								</div>
+								<div class="choose-us-feature-txt">
+									<p>Donec pulvinar magna was leoersi pellentesque impered dignissim creative.</p>
+								</div>
+								<div class="choose-us-icon"><i class="flaticon-system"></i></div>
+								<div class="choose-us-btn"><a href="index.html#">Read More <i class="fa fa-angle-right"></i></a></div>
+								<div class="choose-us-number">
+									<h2>02</h2>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-sm-12 col-md-6 col-lg-3">
+					<div class="choose-us-single-feature">
+						<div class="choose-us-feature-wrapper white">
+							<div class="choose-us-content">
+								<div class="choose-us-feature-title">
+									<h3>Maintain App Data</h3>
+								</div>
+								<div class="choose-us-feature-txt">
+									<p>Donec pulvinar magna was leoersi pellentesque impered dignissim creative.</p>
+								</div>
+								<div class="choose-us-icon"><i class="flaticon-data"></i></div>
+								<div class="choose-us-btn"><a href="index.html#">Read More <i class="fa fa-angle-right"></i></a></div>
+								<div class="choose-us-number">
+									<h2>03</h2>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-sm-12 col-md-6 col-lg-3">
+					<div class="choose-us-single-feature">
+						<div class="choose-us-feature-wrapper white">
+							<div class="choose-us-content">
+								<div class="choose-us-feature-title">
+									<h3>Cyber Security</h3>
+								</div>
+								<div class="choose-us-feature-txt">
+									<p>Donec pulvinar magna was leoersi pellentesque impered dignissim creative.</p>
+								</div>
+								<div class="choose-us-icon"><i class="flaticon-space"></i></div>
+								<div class="choose-us-btn"><a href="index.html#">Read More <i class="fa fa-angle-right"></i></a></div>
+								<div class="choose-us-number">
+									<h2>04</h2>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<!-----START COUNTER SECTION----->
+	<div class="counter-section">
+		<div class="container">
+			<div class="row counter-content-container white">
+				<div class="col-sm-12 col-md-6 col-lg-3">
+					<div class="single-counter br">
+						<div class="counter-content">
+							<div class="counter-content-inner">
+								<div class="count-up-txt">
+									<h1><span class="counter">15</span></h1>
+								</div>
+								<div class="counter-txt">
+									<h3>K</h3>
+								</div>
+							</div>
+						</div>
+						<div class="counter-title">
+							<h4>Happy Clients</h4>
+						</div>
+					</div>
+				</div>
+				<div class="col-sm-12 col-md-6 col-lg-3">
+					<div class="single-counter br">
+						<div class="counter-content">
+							<div class="counter-content-inner">
+								<div class="count-up-txt">
+									<h1><span class="counter">1260</span></h1>
+								</div>
+								<div class="counter-txt">
+									<h3>+</h3>
+								</div>
+							</div>
+						</div>
+						<div class="counter-title">
+							<h4>Account Number </h4>
+						</div>
+					</div>
+				</div>
+				<div class="col-sm-12 col-md-6 col-lg-3">
+					<div class="single-counter br">
+						<div class="counter-content">
+							<div class="counter-content-inner">
+								<div class="count-up-txt">
+									<h1><span class="counter">10</span></h1>
+								</div>
+								<div class="counter-txt">
+									<h3>K</h3>
+								</div>
+							</div>
+						</div>
+						<div class="counter-title">
+							<h4>Finished Project</h4>
+						</div>
+					</div>
+				</div>
+				<div class="col-sm-12 col-md-6 col-lg-3">
+					<div class="single-counter">
+						<div class="counter-content">
+							<div class="counter-content-inner">
+								<div class="count-up-txt">
+									<h1><span class="counter">992</span></h1>
+								</div>
+								<div class="counter-txt">
+									<h3>+</h3>
+								</div>
+							</div>
+						</div>
+						<div class="counter-title">
+							<h4>Win Awards</h4>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<!-----START SERVICE SECTION----->
+	<div class="service-section pb-80 pt-80">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-12">
+					<div class="section-head style-2 pb-70">
+						<h5>Our Services</h5>
+						<h2>We run all kinds of services </h2>
+						<h2> in form of Information & Technologies</h2>
+						<div class="animated-bar"> <span></span></div>
+					</div>
+				</div>
+			</div>
+			<div class="service-feature-container">
+				<div class="row">
+					<div class="col-sm-12 col-md-6 col-lg-6">
+						<div class="servise-single-feature">
+							<div class="service-feature-content d-flex">
+								<div class="service-feature-icon">
+									<div class="service-number-shape">
+										<span>01</span>
+									</div>
+									<i class="flaticon-chart"></i>
+								</div>
+								<div class="service-content-inner">
+									<div class="service-content-title">
+										<h3>IT Mamangement</h3>
+									</div>
+									<div class="service-content-txt">
+										<p>Lorem ipsum dolor sit labore amet, consectetur adipiscing elit, sed do eiusmod tempor.</p>
+									</div>
+									<div class="service-btm-btn"><a href="index.html#">Read More <i class="fa fa-angle-right"></i></a></div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-sm-12 col-md-6 col-lg-6">
+						<div class="servise-single-feature">
+							<div class="service-feature-content d-flex">
+								<div class="service-feature-icon">
+									<div class="service-number-shape">
+										<span>02</span>
+									</div>
+									<i class="flaticon-data"></i>
+								</div>
+								<div class="service-content-inner">
+									<div class="service-content-title">
+										<h3>Product Design</h3>
+									</div>
+									<div class="service-content-txt">
+										<p>Lorem ipsum dolor sit labore amet, consectetur adipiscing elit, sed do eiusmod tempor.</p>
+									</div>
+									<div class="service-btm-btn"><a href="index.html#">Read More <i class="fa fa-angle-right"></i></a></div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-sm-12 col-md-6 col-lg-6">
+						<div class="servise-single-feature">
+							<div class="service-feature-content d-flex">
+								<div class="service-feature-icon">
+									<div class="service-number-shape">
+										<span>03</span>
+									</div>
+									<i class="flaticon-time"></i>
+								</div>
+								<div class="service-content-inner">
+									<div class="service-content-title">
+										<h3>Cloud Services</h3>
+									</div>
+									<div class="service-content-txt">
+										<p>Lorem ipsum dolor sit labore amet, consectetur adipiscing elit, sed do eiusmod tempor.</p>
+									</div>
+									<div class="service-btm-btn"><a href="index.html#">Read More <i class="fa fa-angle-right"></i></a></div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-sm-12 col-md-6 col-lg-6">
+						<div class="servise-single-feature">
+							<div class="service-feature-content d-flex">
+								<div class="service-feature-icon">
+									<div class="service-number-shape">
+										<span>04</span>
+									</div>
+									<i class="flaticon-interaction"></i>
+								</div>
+								<div class="service-content-inner">
+									<div class="service-content-title">
+										<h3>Cloud Computing</h3>
+									</div>
+									<div class="service-content-txt">
+										<p>Lorem ipsum dolor sit labore amet, consectetur adipiscing elit, sed do eiusmod tempor.</p>
+									</div>
+									<div class="service-btm-btn"><a href="index.html#">Read More <i class="fa fa-angle-right"></i></a></div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="row">
+					<div class="col-sm-12 col-md-6 col-lg-6">
+						<div class="servise-single-feature">
+							<div class="service-feature-content d-flex">
+								<div class="service-feature-icon">
+									<div class="service-number-shape">
+										<span>05</span>
+									</div>
+									<i class="flaticon-business-and-finance"></i>
+								</div>
+								<div class="service-content-inner">
+									<div class="service-content-title">
+										<h3>IT Consultancy</h3>
+									</div>
+									<div class="service-content-txt">
+										<p>Lorem ipsum dolor sit labore amet, consectetur adipiscing elit, sed do eiusmod tempor.</p>
+									</div>
+									<div class="service-btm-btn"><a href="index.html#">Read More <i class="fa fa-angle-right"></i></a></div>
+								</div>
+							</div>
+						</div>
+					</div>
+					<div class="col-sm-12 col-md-6 col-lg-6">
+						<div class="servise-single-feature">
+							<div class="service-feature-content d-flex">
+								<div class="service-feature-icon">
+									<div class="service-number-shape">
+										<span>06</span>
+									</div>
+									<i class="flaticon-left-quote"></i>
+								</div>
+								<div class="service-content-inner">
+									<div class="service-content-title">
+										<h3>Cyber Security</h3>
+									</div>
+									<div class="service-content-txt">
+										<p>Lorem ipsum dolor sit labore amet, consectetur adipiscing elit, sed do eiusmod tempor.</p>
+									</div>
+									<div class="service-btm-btn"><a href="index.html#">Read More <i class="fa fa-angle-right"></i></a></div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<!-----START CALL-DO-ACTION SECTION----->
+	<div class="call-do-action pt-20">
+		<div class="container">
+			<div class="row call-do-action-content align-items-center">
+				<div class="col-sm-12 col-md-9 col-lg-9">
+					<div class="call-do-action-title">
+						<h2>Make Your Great Website!</h2>
+					</div>
+					<p>We are very experienced person. You can choose us for your IT solution business.</p>
+				</div>
+				<div class="col-sm-12 col-md-3 col-lg-3">
+					<div class="call-do-btn pt-30">
+						<a href="index.html#">Let's Start</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<!-----START CASE-STUDY  SECTION----->
+	<div class="case-stydy-section">
+		<div class="container-fluid">
+			<div class="case-study-container">
+				<div class="section-head style-3 pb-55">
+					<div class="row align-items-center">
+						<div class=" col-xl-5 col-lg-5 col-md-5">
+							<h5>We Make Connections</h5>
+						    <h2>Explore Recent Projects</h2>
+						</div>
+						<div class=" col-xl-7 col-lg-7 col-md-7">
+							<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed dood tempor incididunt ut labore et dolore magna aliqua.</p>
+						</div>
+					</div>
+				</div>
+				<div class="row">
+					<div class="case-study-carousel owl-carousel">
+						<div class="case-study-single-items">
+							<div class="case-study-thumb">
+								<img src="{{ asset('cyber-it/assets/images/case-study/case1.jpg" alt="thumb">
+							</div>
+							<div class="case-study-overlay-content">
+								<div class="case-study-title">
+									<h4><a href="case-study-details.html">Solution For Financial</a></h4>
+								</div>
+								<div class="case-study-catagory">
+									<span>Marketing</span> / 
+									<span>Design</span>
+								</div>
+							</div>
+						</div>
+						<div class="case-study-single-items">
+							<div class="case-study-thumb">
+								<img src="{{ asset('cyber-it/assets/images/case-study/case2.jpg" alt="thumb">
+							</div>
+							<div class="case-study-overlay-content">
+								<div class="case-study-title">
+									<h4><a href="case-study-details.html">Solution For Financial</a></h4>
+								</div>
+								<div class="case-study-catagory">
+									<span>Marketing</span> / 
+									<span>Design</span>
+								</div>
+							</div>
+						</div>
+						<div class="case-study-single-items">
+							<div class="case-study-thumb">
+								<img src="{{ asset('cyber-it/assets/images/case-study/case5.jpg" alt="thumb">
+							</div>
+							<div class="case-study-overlay-content">
+								<div class="case-study-title">
+									<h4><a href="case-study-details.html">Solution For Financial</a></h4>
+								</div>
+								<div class="case-study-catagory">
+									<span>Marketing</span> / 
+									<span>Design</span>
+								</div>
+							</div>
+						</div>
+						<div class="case-study-single-items">
+							<div class="case-study-thumb">
+								<img src="{{ asset('cyber-it/assets/images/case-study/case3.jpg" alt="thumb">
+							</div>
+							<div class="case-study-overlay-content">
+								<div class="case-study-title">
+									<h4><a href="case-study-details.html">Solution For Financial</a></h4>
+								</div>
+								<div class="case-study-catagory">
+									<span>Marketing</span> / 
+									<span>Design</span>
+								</div>
+							</div>
+						</div>
+						<div class="case-study-single-items">
+							<div class="case-study-thumb">
+								<img src="{{ asset('cyber-it/assets/images/case-study/case4.jpg" alt="thumb">
+							</div>
+							<div class="case-study-overlay-content">
+								<div class="case-study-title">
+									<h4><a href="case-study-details.html">Solution For Financial</a></h4>
+								</div>
+								<div class="case-study-catagory">
+									<span>Marketing</span> / 
+									<span>Design</span>
+								</div>
+							</div>
+						</div>
+						<div class="case-study-single-items">
+							<div class="case-study-thumb">
+								<img src="{{ asset('cyber-it/assets/images/case-study/case5.jpg" alt="thumb">
+							</div>
+							<div class="case-study-overlay-content">
+								<div class="case-study-title">
+									<h4><a href="case-study-details.html">Solution For Financial</a></h4>
+								</div>
+								<div class="case-study-catagory">
+									<span>Marketing</span> / 
+									<span>Design</span>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<!----START TESTIMONIAL SECTION----->
+	<div class="testimonial-section pt-100 pb-140">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-12">
+					<div class="section-head style-2 pb-70">
+						<h5>Testimonial</h5>
+						<h2>We have trusted </h2>
+						<h2>Clients & what say About Cyber.</h2>
+						<div class="animated-bar"><span></span></div>
+					</div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="testimonial-carousel owl-carousel">
+					<div class="testimonial-single-item">
+						<div class="testimonial-thumb">
+							<img src="{{ asset('cyber-it/assets/images/testimonial/tstm1.jpg" alt="testimonial Img">
+							<div class="testimonial-icon">
+								<span><i class="fas fa-quote-left"></i></span>
+							</div>
+						</div>
+						<div class="testimonial-content">
+							<p class="testimonial-content-text">Sorem ipsum dolor sit amet there any consectetur adipisicing eliter sed do the eiusmod tempor asem incididunt ut labore dolore magna aliqua. Ut enim.</p>
+							<h4>John Abraham</h4>
+							<p class="testimonial-designation">Web developer</p>
+						</div>
+					</div>
+					<div class="testimonial-single-item">
+						<div class="testimonial-thumb">
+							<img src="{{ asset('cyber-it/assets/images/testimonial/tstm2.jpg" alt="testimonial Img">
+							<div class="testimonial-icon">
+								<span><i class="fas fa-quote-left"></i></span>
+							</div>
+						</div>
+						<div class="testimonial-content">
+							<p class="testimonial-content-text">Sorem ipsum dolor sit amet there any consectetur adipisicing eliter sed do the eiusmod tempor asem incididunt ut labore dolore magna aliqua. Ut enim.</p>
+							<h4>Ellen Erye </h4>
+							<p class="testimonial-designation">Project Manager</p>
+						</div>
+					</div>
+					<div class="testimonial-single-item">
+						<div class="testimonial-thumb">
+							<img src="{{ asset('cyber-it/assets/images/testimonial/tstm3.jpg" alt="testimonial Img">
+							<div class="testimonial-icon">
+								<span><i class="fas fa-quote-left"></i></span>
+							</div>
+						</div>
+						<div class="testimonial-content">
+							<p class="testimonial-content-text">Sorem ipsum dolor sit amet there any consectetur adipisicing eliter sed do the eiusmod tempor asem incididunt ut labore dolore magna aliqua. Ut enim.</p>
+							<h4>Shene Watsan </h4>
+							<p class="testimonial-designation">Founder</p>
+						</div>
+					</div>
+					<div class="testimonial-single-item">
+						<div class="testimonial-thumb">
+							<img src="{{ asset('cyber-it/assets/images/testimonial/tstm2.jpg" alt="testimonial Img">
+							<div class="testimonial-icon">
+								<span><i class="fas fa-quote-left"></i></span>
+							</div>
+						</div>
+						<div class="testimonial-content">
+							<p class="testimonial-content-text">Sorem ipsum dolor sit amet there any consectetur adipisicing eliter sed do the eiusmod tempor asem incididunt ut labore dolore magna aliqua. Ut enim.</p>
+							<h4>Monalysha</h4>
+							<p class="testimonial-designation">CEO</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<!-----START FEATURE INDEX SECTION----->
+	<div class="feature-index-section white pt-65 pb-70">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-12">
+					<div class="section-head style-2 pb-40">
+						<h5 class="text-white">Index Of Technology</h5>
+						<h2>We provide world with </h2>
+						<h2>IT solution services for Business Stratagy.</h2>
+						<div class="animated-bar"><span></span></div>
+					</div>
+				</div>
+			</div>
+			<div class="feature-content-wrapper">
+				<div class="row">
+					<div class="col-sm-4 col-md-4 col-lg-2 ">
+						<div class="feature-single-content">
+							<div class="feature-icon"><i class="flaticon-time"></i></div>
+							<div class="feature-title">IOS</div>
+						</div>
+					</div>
+					<div class="col-sm-4 col-md-4 col-lg-2 ">
+						<div class="feature-single-content">
+							<div class="feature-icon"><i class="flaticon-graphic-design"></i></div>
+							<div class="feature-title">ADRROID</div>
+						</div>
+					</div>
+					<div class="col-sm-4 col-md-4 col-lg-2 ">
+						<div class="feature-single-content">
+							<div class="feature-icon"><i class="flaticon-data-analytics"></i></div>
+							<div class="feature-title">WEB</div>
+						</div>
+					</div>
+					<div class="col-sm-4 col-md-4 col-lg-2 ">
+						<div class="feature-single-content">
+							<div class="feature-icon"><i class="flaticon-business-and-finance"></i></div>
+							<div class="feature-title">IOT</div>
+						</div>
+					</div>
+					<div class="col-sm-4 col-md-4 col-lg-2 ">
+						<div class="feature-single-content">
+							<div class="feature-icon"><i class="flaticon-work"></i></div>
+							<div class="feature-title">TV</div>
+						</div>
+					</div>
+					<div class="col-sm-4 col-md-4 col-lg-2 ">
+						<div class="feature-single-content">
+							<div class="feature-icon"><i class="flaticon-interaction"></i></div>
+							<div class="feature-title">WIRELESS</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<!----START BLOG SECTION----->
+	<div class="blog-section pt-70 pb-100">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-12">
+					<div class="section-head style-2 pb-30">
+						<h5>Articles</h5>
+						<h2>Latest Blog Posts </h2>
+						<div class="animated-bar"><span></span></div>
+						<p class="pt-25">Phasellus vitae velit sit amet diam semper commodo quis quis libero. Morbi consequat arcu augue, molestie faucibus.</p>
+					</div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="blog-carousel owl-carousel">
+					<div class="blog-single-items">
+						<div class="blog-thumb">
+							<a href="index.html#"><img src="{{ asset('cyber-it/assets/images/blog/blog-t1.jpg" alt="thumb"></a>
+							<div class="blog-meta-top">
+								<ul>
+									<li><a href="index.html#">Design</a></li>
+								</ul>
+							</div>
+						</div>
+						<div class="blog-content">
+							<div class="blog-meta">
+								<a href="index.html#">Cyber</a>
+								<span>February 01, 2025</span>
+							</div>
+							<div class="blog-page-title">
+								<h2><a href="blog-details.html">Tiktok Illegally collecting data sharing</a></h2>
+							</div>
+							<p>Lorem ipsum dolor sit amet consectet adipisie cing elit sed eiusmod tempor incididunt on labore et dolore. </p>
+							<div class="blog-btn">
+								<a href="index.html#">Read More  <i class="fa fa-angle-right"></i></a>
+							</div>
+						</div>
+					</div>
+					<div class="blog-single-items">
+						<div class="blog-thumb">
+							<a href="index.html#"><img src="{{ asset('cyber-it/assets/images/blog/blog-t2.jpg" alt="thumb"></a>
+							<div class="blog-meta-top">
+								<ul>
+									<li><a href="index.html#">Wordpress</a></li>
+								</ul>
+							</div>
+						</div>
+						<div class="blog-content">
+							<div class="blog-meta">
+								<a href="index.html#">Cyber</a>
+								<span>February 01, 2025</span>
+							</div>
+							<div class="blog-page-title">
+								<h2><a href="blog-details.html">How to learn PHP 10 tips to get you started</a></h2>
+							</div>
+							<p>Lorem ipsum dolor sit amet consectet adipisie cing elit sed eiusmod tempor incididunt on labore et dolore. </p>
+							<div class="blog-btn">
+								<a href="index.html#">Read More  <i class="fa fa-angle-right"></i></a>
+							</div>
+						</div>
+					</div>
+					<div class="blog-single-items">
+						<div class="blog-thumb">
+							<a href="index.html#"><img src="{{ asset('cyber-it/assets/images/blog/blog-t3.jpg" alt="thumb"></a>
+							<div class="blog-meta-top">
+								<ul>
+									<li><a href="index.html#">Development</a></li>
+								</ul>
+							</div>
+						</div>
+						<div class="blog-content">
+							<div class="blog-meta">
+								<a href="index.html#">Cyber</a>
+								<span>February 01, 2025</span>
+							</div>
+							<div class="blog-page-title">
+								<h2><a href="blog-details.html">Convincing reasons you need to learn</a></h2>
+							</div>
+							<p>Lorem ipsum dolor sit amet consectet adipisie cing elit sed eiusmod tempor incididunt on labore et dolore. </p>
+							<div class="blog-btn">
+								<a href="index.html#">Read More  <i class="fa fa-angle-right"></i></a>
+							</div>
+						</div>
+					</div>
+					<div class="blog-single-items">
+						<div class="blog-thumb">
+							<a href="index.html#"><img src="{{ asset('cyber-it/assets/images/blog/blog-t4.jpg" alt="thumb"></a>
+							<div class="blog-meta-top">
+								<ul>
+									<li><a href="index.html#">Wordpress</a></li>
+								</ul>
+							</div>
+						</div>
+						<div class="blog-content">
+							<div class="blog-meta">
+								<a href="index.html#">Cyber</a>
+								<span>February 01, 2025</span>
+							</div>
+							<div class="blog-page-title">
+								<h2><a href="blog-details.html">The five devices you need to work anytime</a></h2>
+							</div>
+							<p>Lorem ipsum dolor sit amet consectet adipisie cing elit sed eiusmod tempor incididunt on labore et dolore. </p>
+							<div class="blog-btn">
+								<a href="index.html#">Read More  <i class="fa fa-angle-right"></i></a>
+							</div>
+						</div>
+					</div>
+					<div class="blog-single-items">
+						<div class="blog-thumb">
+							<a href="index.html#"><img src="{{ asset('cyber-it/assets/images/blog/blog-t1.jpg" alt="thumb"></a>
+							<div class="blog-meta-top">
+								<ul>
+									<li><a href="index.html#">Wordpress</a></li>
+								</ul>
+							</div>
+						</div>
+						<div class="blog-content">
+							<div class="blog-meta">
+								<a href="index.html#">Cyber</a>
+								<span>February 01, 2025</span>
+							</div>
+							<div class="blog-page-title">
+								<h2><a href="blog-details.html">How to learn PHP 10 tips to get you started</a></h2>
+							</div>
+							<p>Lorem ipsum dolor sit amet consectet adipisie cing elit sed eiusmod tempor incididunt on labore et dolore. </p>
+							<div class="blog-btn">
+								<a href="index.html#">Read More  <i class="fa fa-angle-right"></i></a>
+							</div>
+						</div>
+					</div>
+					<div class="blog-single-items">
+						<div class="blog-thumb">
+							<a href="index.html#"><img src="{{ asset('cyber-it/assets/images/blog/blog-t2.jpg" alt="thumb"></a>
+							<div class="blog-meta-top">
+								<ul>
+									<li><a href="index.html#">Design</a></li>
+								</ul>
+							</div>
+						</div>
+						<div class="blog-content">
+							<div class="blog-meta">
+								<a href="index.html#">Cyber</a>
+								<span>February 01, 2025</span>
+							</div>
+							<div class="blog-page-title">
+								<h2><a href="blog-details.html">The five devices you need to work anytime </a></h2>
+							</div>
+							<p>Lorem ipsum dolor sit amet consectet adipisie cing elit sed eiusmod tempor incididunt on labore et dolore. </p>
+							<div class="blog-btn">
+								<a href="index.html#">Read More  <i class="fa fa-angle-right"></i></a>
+							</div>
+						</div>
+					</div>
+					<div class="blog-single-items">
+						<div class="blog-thumb">
+							<a href="index.html#"><img src="{{ asset('cyber-it/assets/images/blog/blog-t3.jpg" alt="thumb"></a>
+							<div class="blog-meta-top">
+								<ul>
+									<li><a href="index.html#">Design</a></li>
+									<li><a href="index.html#">Sass</a></li>
+								</ul>
+							</div>
+						</div>
+						<div class="blog-content">
+							<div class="blog-meta">
+								<a href="index.html#">Cyber</a>
+								<span>February 01, 2025</span>
+							</div>
+							<div class="blog-page-title">
+								<h2><a href="blog-details.html">Where and how to watch live stream today</a></h2>
+							</div>
+							<p>Lorem ipsum dolor sit amet consectet adipisie cing elit sed eiusmod tempor incididunt on labore et dolore. </p>
+							<div class="blog-btn">
+								<a href="index.html#">Read More  <i class="fa fa-angle-right"></i></a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<!-----START FOOTER SECTION----->
+	<div class="footer pt-60 pb-70">
+		<div class="container">
+			<div class="row align-items-center">
+				<div class="col-md-6 col-lg-3">
+					<div class="widget">
+						<div class="about-company">
+							<div class="footer-logo mb-10">
+								<img src="{{ asset('cyber-it/assets/images/logo-1.png" alt="Footer-logo">
+							</div>
+							<p>Morbi convallis bibendum una and vivera. Maecenas quis consequat libero, a feugiat eros. Nunc ut the lacinia tortor morbi ultricies arent laoreet ullamcorper phasellus semper creative lorem.</p>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-6 col-lg-3">
+					<div class="widget">
+						<div class="footer-quick-link">
+							<div class="footer-widget-title">
+								<h5>Helpful Links</h5>
+							</div>
+							<div class="footer-helpful-links">
+								<ul>
+									<li><a href="index.html#">Marketing Strategy</a></li>
+									<li><a href="index.html#">Interior Design</a></li>
+									<li><a href="index.html#">Digital Services</a></li>
+									<li><a href="index.html#">Product Selling</a></li>
+									<li><a href="index.html#">Product Design</a></li>
+									<li><a href="index.html#">Social Marketing</a></li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-6 col-lg-3">
+					<div class="widget">
+						<div class="footer-quick-link">
+							<div class="footer-widget-title">
+								<h5>Support</h5>
+							</div>
+							<div class="footer-helpful-links">
+								<ul>
+									<li><a href="index.html#">Praivacy Policy</a></li>
+									<li><a href="index.html#">Terms & Uses</a></li>
+									<li><a href="index.html#">Support Center</a></li>
+									<li><a href="index.html#">Community</a></li>
+									<li><a href="index.html#">FAQ</a></li>
+									<li><a href="index.html#">Contact Us</a></li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="col-md-6 col-lg-3">
+					<div class="widget">
+						<div class="footer-contact">
+							<div class="footer-widget-title">
+								<h5>Company Address</h5>
+							</div>
+							<p><b>Adress: </b>58 Howard Street #2 San Francisco, CA 941</p>
+							<p><b>Telephone: </b> +880 215 365 789</p>
+							<p><b>Email: </b> example@gmail.com </p>
+							<div class="footer-social-icon d-flex">
+								<a href="index.html#"><span>Follow Us:</span></a>
+								<ul>
+									<li><a href="index.html#"><i class="fab fa-facebook-f"></i></a></li>
+									<li><a href="index.html#"><i class="fa-brands fa-x-twitter"></i></a></li>
+									<li><a href="index.html#"><i class="fab fa-pinterest"></i></a></li>
+									<li><a href="index.html#"><i class="fab fa-linkedin-in"></i></a></li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<!-----START FOOTER COPYRIGNT SECTION----->
+	<div class="footer-copyright-section">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-12 col-md-6">
+					<div class="footer-copyright-text">
+						<p>Copyright &copy; cyber all rights reserved. </p>
+					</div>
+				</div>
+				<div class="col-sm-12 col-md-6">
+					<div class="footer-copyright-link">
+						<ul>
+							<li><a href="index.html#">Terms & Condition</a></li>
+							<li><a href="index.html#">Privacy Policy</a></li>
+							<li><a href="index.html#">Contact Us</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<!-----TO-TOP BUTTON ----->
+	<!--===================================================-->
+	<button id="to-top">
+		<i class="fa fa-angle-up"></i>
+	</button>
+
+	<!-- jquery js -->
+	<script type="text/javascript" src="{{ asset('cyber-it/assets/js/vendor/jquery-3.2.1.min.js"></script>
+	<!-- bootstrap js -->
+	<script type="text/javascript" src="https://html.ditsolution.net/cyber-it/assets/js/bootstrap.min.js"></script>
+	<!-- Mobile-Menu -->
+	<script type="text/javascript" src="{{ asset('cyber-it/assets/js/mobile-menu.js"></script>
+	<!-- carousel js -->
+	<script type="text/javascript" src="{{ asset('cyber-it/assets/js/owl.carousel.min.js"></script>
+	<!-- counterup js -->
+	<script type="text/javascript" src="{{ asset('cyber-it/assets/js/jquery.counterup.min.js"></script>
+	<!-- circle progress js -->
+	<script type="text/javascript" src="{{ asset('cyber-it/assets/js/circle-progress.min.js"></script>
+	<!-- waypoints js -->
+	<script type="text/javascript" src="{{ asset('cyber-it/assets/js/waypoints.min.js"></script>
+	<!-- appear js -->
+	<script type="text/javascript" src="{{ asset('cyber-it/assets/js/jquery.appear.js"></script>
+	<!-- wow js -->
+	<script type="text/javascript" src="{{ asset('cyber-it/assets/js/wow.min.js"></script>
+	<!-- imagesloaded js -->
+	<script type="text/javascript" src="{{ asset('cyber-it/assets/js/imagesloaded.pkgd.min.js"></script>
+	<!-- venobox js -->
+	<script type="text/javascript" src="venobox/venobox.js"></script>
+	<!-- ajax mail js -->
+	<script type="text/javascript" src="{{ asset('cyber-it/assets/js/ajax-mail.js"></script>
+	<!--  animated-text js -->
+	<script type="text/javascript" src="{{ asset('cyber-it/assets/js/animated-text.js"></script>
+	<!-- venobox min js -->
+	<script type="text/javascript" src="venobox/venobox.min.js"></script>
+	<!-- isotope js -->
+	<script type="text/javascript" src="{{ asset('cyber-it/assets/js/isotope.pkgd.min.js"></script>
+	<!-- jquery nivo slider pack js -->
+	<script type="text/javascript" src="{{ asset('cyber-it/assets/js/jquery.nivo.slider.pack.js"></script>
+	<!-- jquery meanmenu js -->
+	<script type="text/javascript" src="{{ asset('cyber-it/assets/js/jquery.meanmenu.js"></script>
+	<!-- jquery scrollup js -->
+	<script type="text/javascript" src="{{ asset('cyber-it/assets/js/jquery.scrollUp.js"></script>
+	<!-- uikit js -->
+	<script type="text/javascript" src="{{ asset('cyber-it/assets/js/uikit.min.js"></script>
+	<!-- Jquery UI Tab JS -->
+	<script type="text/javascript" src="{{ asset('cyber-it/assets/js/jquery-ui.min.js"></script>
+	<!--Swiper Slider-->
+	<script type="text/javascript" src="{{ asset('cyber-it/assets/js/swiper.min.js"></script>
+	<!--Animated Headline-->
+	<script type="text/javascript" src="{{ asset('cyber-it/assets/js/jquery.animatedheadline.min.js"></script>
+	<!--theme js-->
+	<script type="text/javascript" src="{{ asset('cyber-it/assets/js/theme.js"></script>
+		<!--jquery js-->
+</body>
+</html>
+
