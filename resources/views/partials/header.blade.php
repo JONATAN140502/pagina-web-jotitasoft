@@ -71,7 +71,7 @@
 			</div>
 			<div class="logo"> 
 				<a href="{{ route('home') }}">
-					<img src="{{ asset('cyber-it/assets/images/logo-11.png') }}" alt="logo">
+					<img src="{{ asset('cyber-it/assets/images/logo-sinfondo.png') }}" alt="logo">
 					<img src="{{ asset('cyber-it/assets/images/logo-2.png') }}" alt="logo">
 				</a>
 			</div>
