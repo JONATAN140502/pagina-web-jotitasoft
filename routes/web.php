@@ -1,6 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\VistasController;
 
 /*
 |--------------------------------------------------------------------------
@@ -13,14 +14,8 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
-    return view('pages.index');
-})->name('home');
+Route::get('/', [VistasController::class, 'index'])->name('home');
 
-Route::get('/about-us', function () {
-    return view('pages.about-us');
-})->name('about-us');
+Route::get('/about-us', [VistasController::class, 'aboutUs'])->name('about-us');
 
-Route::get('/contact-us', function () {
-    return view('pages.contact-us');
-})->name('contact-us');
+Route::get('/contact-us', [VistasController::class, 'contactUs'])->name('contact-us');
