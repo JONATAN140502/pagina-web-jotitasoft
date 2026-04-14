@@ -23,9 +23,9 @@
 							<ul>
 								<li><a href="{{ route('home') }}">Inicio</a></li>
 								<li><a href="{{ route('about-us') }}">Nosotros</a></li>
-								<li><a href="#services">Servicios</a></li>
-								<li><a href="#portfolio">Proyectos</a></li>
-								<li><a href="#pricing">Planes SaaS</a></li>
+								<li><a href="{{ route('home') }}#services">Servicios</a></li>
+								<li><a href="{{ route('home') }}#portfolio">Proyectos</a></li>
+								<li><a href="{{ route('home') }}#pricing">Planes SaaS</a></li>
 								<li><a href="{{ route('contact-us') }}">Contacto</a></li>
 							</ul>
 						</div>
@@ -40,11 +40,11 @@
 						</div>
 						<div class="footer-helpful-links">
 							<ul>
-								<li><a href="#">Política de Privacidad</a></li>
-								<li><a href="#">Términos y Condiciones</a></li>
-								<li><a href="#">Centro de Soporte</a></li>
-								<li><a href="#">Documentación</a></li>
-								<li><a href="#">Preguntas Frecuentes</a></li>
+								<li><a href="{{ route('privacy-policy') }}">Política de Privacidad</a></li>
+								<li><a href="{{ route('terms-conditions') }}">Términos y Condiciones</a></li>
+								<li><a href="{{ route('support') }}">Centro de Soporte</a></li>
+								<li><a href="{{ route('documentation') }}">Documentación</a></li>
+								<li><a href="{{ route('faq') }}">Preguntas Frecuentes</a></li>
 								<li><a href="{{ route('contact-us') }}">Contáctanos</a></li>
 							</ul>
 						</div>
@@ -90,8 +90,8 @@
 			<div class="col-sm-12 col-md-6">
 				<div class="footer-copyright-link">
 					<ul>
-						<li><a href="#">Términos y Condiciones</a></li>
-						<li><a href="#">Política de Privacidad</a></li>
+						<li><a href="{{ route('terms-conditions') }}">Términos y Condiciones</a></li>
+						<li><a href="{{ route('privacy-policy') }}">Política de Privacidad</a></li>
 						<li><a href="{{ route('contact-us') }}">Contáctanos</a></li>
 					</ul>
 				</div>
