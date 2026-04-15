@@ -111,7 +111,7 @@
     </div>
 
     <!-----START SERVICE SECTION----->
-    <div class="service-section style-eight pt-70 pb-80">
+    <div id="services" class="service-section style-eight pt-70 pb-80">
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-lg-7">
@@ -754,7 +754,7 @@
     </div>
 
     <!-----START PRICING SECTION----->
-    <div class="pricing-section pt-70 pb-50">
+    <div id="pricing" class="pricing-section pt-70 pb-50">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12">

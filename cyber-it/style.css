@@ -1,3 +1,7 @@
+html {
+  scroll-padding-top: 80px;
+}
+
 .container {
   padding-left: 0;
   padding-right: 0;
@@ -842,11 +846,13 @@ span.color-change {
   width: 100%;
   position: absolute;
   height: 1200px;
+  pointer-events: none;
 }
 .point {
   border-radius: 50%;
-  z-index: 999;
+  z-index: 1;
   position: absolute;
+  pointer-events: none;
 }
 .animated-point-1 {
   background-color: red;

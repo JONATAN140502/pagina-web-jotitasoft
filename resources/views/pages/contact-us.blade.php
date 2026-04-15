@@ -55,9 +55,12 @@
                             <i class="fas fa-phone-alt"></i>
                         </div>
                         <div class="contact-info-content">
-                            <h4>Teléfonos</h4>
-                            <p><a href="tel:+51951741427">+51 951 741 427</a><br>
-                               <a href="tel:+51919614613">+51 919 614 613</a></p>
+                            <h4>Teléfonos / WhatsApp</h4>
+                            <p>
+                                <a href="https://wa.me/51951741427" target="_blank" rel="noopener">+51 951 741 427</a><br>
+                                <a href="https://wa.me/51919614613" target="_blank" rel="noopener">+51 919 614 613</a><br>
+                                <a href="https://wa.me/51907533256" target="_blank" rel="noopener">+51 907 533 256</a>
+                            </p>
                         </div>
                     </div>
                 </div>
@@ -151,10 +154,12 @@
                                     <label for="telefono">Teléfono</label>
                                     <input type="tel"
                                            id="telefono"
-                                           name="telefono"
+                                           name="telefono_visible"
                                            class="form-control"
-                                           placeholder="+51 999 999 999"
+                                           placeholder="999 999 999"
                                            value="{{ old('telefono') }}">
+                                    {{-- Campo oculto que recibe el número completo con prefijo --}}
+                                    <input type="hidden" id="telefono_full" name="telefono">
                                 </div>
                             </div>
                             <div class="col-sm-12 col-md-6 mb-25">
@@ -223,6 +228,7 @@
 @endsection
 
 @push('styles')
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/intl-tel-input@23/build/css/intlTelInput.css">
 <style>
     /* Page Banner */
     .page-banner-section {
@@ -361,5 +367,43 @@
     .mb-25 { margin-bottom: 25px; }
     .mb-30 { margin-bottom: 30px; }
     .mt-20 { margin-top: 15px; }
+
+    /* intl-tel-input integración */
+    .iti { width: 100%; }
+    .iti__tel-input {
+        width: 100%;
+        border: 1px solid #ddd;
+        border-radius: 6px;
+        padding: 12px 16px 12px 52px;
+        font-size: 15px;
+        color: #333;
+        transition: border-color 0.3s, box-shadow 0.3s;
+        background: #fff;
+        height: auto;
+    }
+    .iti__tel-input:focus {
+        border-color: #0066ff;
+        box-shadow: 0 0 0 3px rgba(0,102,255,0.1);
+        outline: none;
+    }
+    .iti__flag-container { z-index: 10; }
 </style>
+@endpush
+
+@push('scripts')
+<script src="https://cdn.jsdelivr.net/npm/intl-tel-input@23/build/js/intlTelInput.min.js"></script>
+<script>
+    var input = document.querySelector('#telefono');
+    var iti = window.intlTelInput(input, {
+        initialCountry: 'pe',
+        separateDialCode: true,
+        loadUtilsOnInit: 'https://cdn.jsdelivr.net/npm/intl-tel-input@23/build/js/utils.js',
+        preferredCountries: ['pe', 'co', 'mx', 'ar', 'cl', 'ec', 'bo', 'us'],
+    });
+
+    // Al enviar el form, guarda el número completo con prefijo en el campo oculto
+    document.querySelector('.contact-form').addEventListener('submit', function () {
+        document.querySelector('#telefono_full').value = iti.getNumber();
+    });
+</script>
 @endpush

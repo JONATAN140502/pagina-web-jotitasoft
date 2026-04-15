@@ -67,7 +67,7 @@ class VistasController extends Controller
         $telefono = $validated['telefono'] ?? 'No proporcionado';
         $asunto   = $validated['asunto'];
         $mensaje  = $validated['mensaje'];
-        $fecha    = now()->format('d/m/Y H:i');
+        $fecha    = now()->setTimezone('America/Lima')->format('d/m/Y H:i') . ' (hora Perú)';
 
         // Destinatarios
         $destinatarios = ['gcjhan2001@gmail.com', 'jonatanmayanga@gmail.com'];

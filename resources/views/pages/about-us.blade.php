@@ -75,7 +75,7 @@
     </div>
 
     <!-----MISSION & VISION----->
-    <div class="mission-section pt-70 pb-70" style="background:#f4f8ff;">
+    <div id="mision" class="mission-section pt-70 pb-70" style="background:#f4f8ff;">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center mb-50">
@@ -114,7 +114,7 @@
     </div>
 
     <!-----VALUES SECTION----->
-    <div class="values-section pt-70 pb-80">
+    <div id="valores" class="values-section pt-70 pb-80">
         <div class="container">
             <div class="row">
                 <div class="col-lg-12 text-center mb-50">
