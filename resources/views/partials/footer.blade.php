@@ -63,11 +63,11 @@
 						<p><b>Web: </b><a href="https://jotitasoft.com" target="_blank">jotitasoft.com</a></p>
 						<p><b>RUC: </b>20615251195</p>
 						<div class="footer-social-icon d-flex">
-							<a href="#"><span>Follow Us:</span></a>
+							<a href="#"><span>Síguenos:</span></a>
 							<ul>
-								<li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
+								<li><a href="https://www.facebook.com/profile.php?id=61583780135610" target="_blank" rel="noopener"><i class="fab fa-facebook-f"></i></a></li>
 								<li><a href="#"><i class="fa-brands fa-x-twitter"></i></a></li>
-								<li><a href="#"><i class="fab fa-pinterest"></i></a></li>
+								<li><a href="https://wa.me/51951741427" target="_blank" rel="noopener"><i class="fab fa-whatsapp"></i></a></li>
 								<li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
 							</ul>
 						</div>

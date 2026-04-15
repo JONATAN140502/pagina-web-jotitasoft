@@ -3,7 +3,7 @@
 <head>
 	<meta charset="UTF-8">
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
-	<title>@yield('title', 'Cyber-IT - IT Solutions Services')</title>
+	<title>@yield('title', 'Jotita Sof Sac')</title>
 	<meta name="description" content="@yield('description', '')">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<!-- Favicon -->
