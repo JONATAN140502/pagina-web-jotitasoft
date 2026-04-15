@@ -58,7 +58,11 @@
 							<h5>Información de Contacto</h5>
 						</div>
 						<p><b>Dirección: </b>Jr. Jaén 612, San Ignacio<br>Provincia: San Ignacio, Cajamarca</p>
-						<p><b>Teléfonos: </b><br>+51 951 741 427<br>+51 919 614 613</p>
+						<p><b>Teléfonos: </b><br>
+								<a href="https://wa.me/51951741427" target="_blank" rel="noopener">+51 951 741 427</a><br>
+								<a href="https://wa.me/51919614613" target="_blank" rel="noopener">+51 919 614 613</a><br>
+								<a href="https://wa.me/51907533256" target="_blank" rel="noopener">+51 907 533 256</a>
+							</p>
 						<p><b>Email: </b>informes@jotitasoft.com</p>
 						<p><b>Web: </b><a href="https://jotitasoft.com" target="_blank">jotitasoft.com</a></p>
 						<p><b>RUC: </b>20615251195</p>

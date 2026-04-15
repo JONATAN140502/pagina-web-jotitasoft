@@ -2,7 +2,7 @@
 <div class="header-top-area d-sm-none d-md-none d-lg-block">
 	<div class="container">
 		<div class="row align-items-center">
-			<div class="col-md-8">
+			<div class="col-md-9">
 				<div class="header-top-left-items">
 					<div class="header-top-left-single-item">
 						<a href="mailto:informes@jotitasoft.com">
@@ -25,18 +25,18 @@
 						</a>
 					</div>
 					<div class="header-top-left-single-item">
-						<a href="tel:+51951741427">
-							<div class="header-top-left-icon">
-								<span>
-									<i class="fas fa-phone"></i>
-									+51951741427/+51919614613/+51907533256
-								</span>
-							</div>
-						</a>
+						<div class="header-top-left-icon">
+							<span>
+								<i class="fab fa-whatsapp" style="color: #FFFF;"></i>
+								<a href="https://wa.me/51951741427" target="_blank" rel="noopener">+51951741427</a> /
+								<a href="https://wa.me/51919614613" target="_blank" rel="noopener">+51919614613</a> /
+								<a href="https://wa.me/51907533256" target="_blank" rel="noopener">+51907533256</a>
+							</span>
+						</div>
 					</div>
 				</div>
 			</div>
-			<div class="col-md-4">
+			<div class="col-md-3">
 				<div class="header-top-right-items text-right">
 					<div class="header-top-right-icon-area">
 						<ul>
