@@ -3,7 +3,7 @@
 
 @push('styles')
 <style>
-    #sticky-header { position: relative; z-index: 1; }
+    #sticky-header { position: relative; z-index: 9999; }
     .hero-section.style-two { z-index: 0; }
 </style>
 @endpush
@@ -460,7 +460,7 @@
                             <img src="{{ asset('cyber-it/assets/images/team/tm-5.jpg') }}" alt="thumb">
                             <div class="about-team-member">
                                 <div class="member-name"><h4>Jonatan Arturo Mayanga Muñoz</h4></div>
-                                <div class="designation"><p>CIO</p></div>
+                                <div class="designation"><p>CEO</p></div>
                             </div>
                             <div class="member-social-link">
                                 <ul>

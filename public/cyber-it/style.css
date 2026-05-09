@@ -1941,7 +1941,7 @@ span.color-change {
   margin: 0 0 5px;
 }
 .feature-content-txt p {
-  color: rgba(255, 255, 255, 0.8);
+  color: #5c727d;
   margin: 0;
 }
 .feature-content.style-2 {
@@ -9203,3 +9203,4 @@ div#particles .carousel-slider-one {
 .blog-appoinment.appoinment-wrapper .form-group textarea::placeholder {
   color: #222 !important;
 }
+
